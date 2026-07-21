@@ -1,0 +1,13 @@
+Name,Age,Gender,Department,City,Salary,Experience,Performance,Joining_Date
+Rahul,23,Male,IT,Hyderabad,45000,2,Good,2022-01-15
+Priya,25,Female,HR,Chennai,52000,3,Excellent,2021-06-12
+Amit,,Male,Finance,Mumbai,48000,2,Good,2022-03-08
+Sneha,24,Female,IT,Bangalore,60000,4,Excellent,2020-11-20
+Rahul,23,Male,IT,Hyderabad,45000,2,Good,2022-01-15
+Kiran,29,Male,Marketing,,55000,5,Average,2019-09-18
+Pooja,27,Female,HR,Delhi,,4,Good,2020-02-11
+Arjun,31,Male,Finance,Pune,70000,7,Excellent,2018-05-06
+Meena,26,Female,IT,Hyderabad,58000,,Good,2021-08-01
+Vikram,28,Male,Marketing,Chennai,62000,6,,2019-04-22
+Anjali,24,Female,IT,Bangalore,59000,3,Excellent,
+Ravi,30,Male,Finance,Mumbai,68000,8,Good,2017-12-30
